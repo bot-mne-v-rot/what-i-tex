@@ -27,7 +27,7 @@
 * [Алгебра](https://www.youtube.com/playlist?list=PL-XfgOapHEQcpZjEQnZPZ7zGBBStGCMxx)
 * [Математический анализ](https://www.youtube.com/playlist?list=PL3g-xteRBITYF6CrQskAz2lQ-XxthhFeD)
 ### Моей записи там нет 
-Если вашей лекции нет в этом плейлисте, пожалуйста, скачайте лекцию с [яндекс диска](https://disk.yandex.ru/d/lacPhEGe-5xpFQ?w=1), вырежьте тишину с помощью [соответствующей утилиты](https://github.com/WyattBlue/auto-editor), загрузите видео на свой канал на [YT](youtube.com), пришлите ссылку на своё видео создателю плейлиста:
+Если вашей лекции нет в этом плейлисте, пожалуйста, скачайте лекцию с [яндекс диска](https://disk.yandex.ru/d/lacPhEGe-5xpFQ?w=1), вырежьте тишину с помощью [соответствующей утилиты](https://github.com/WyattBlue/auto-editor), загрузите видео на свой канал на [YT](https://www.youtube.com/), пришлите ссылку на своё видео создателю плейлиста:
 * Алгебру - [Арсению](https://t.me/electfreak)
 * Математический анализ - [Марку](https://t.me/markprudnikov)
 ## Что уже сделано 
